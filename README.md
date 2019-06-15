@@ -1,0 +1,1 @@
+# go-jd_autobuy
